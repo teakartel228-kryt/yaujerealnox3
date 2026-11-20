@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "power=0": {
+      "model": "remake_arsenal:block/strike_target"
+    },
+    "power=1": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=2": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=3": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=4": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=5": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=6": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=7": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=8": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=9": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=10": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=11": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=12": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=13": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=14": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    },
+    "power=15": {
+      "model": "remake_arsenal:block/strike_target_hit"
+    }
+  }
+}

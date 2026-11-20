@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "remake_arsenal:item/hook_upgrade_template"
+  }
+}

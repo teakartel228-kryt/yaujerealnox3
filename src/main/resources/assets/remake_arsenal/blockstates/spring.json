@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "compressed=false,facing=up": {
+      "model": "remake_arsenal:block/spring"
+    },
+    "compressed=true,facing=up": {
+      "model": "remake_arsenal:block/spring_compressed"
+    },
+    "compressed=false,facing=down": {
+      "model": "remake_arsenal:block/spring",
+      "x": 180
+    },
+    "compressed=true,facing=down": {
+      "model": "remake_arsenal:block/spring_compressed",
+      "x": 180
+    },
+    "compressed=false,facing=north": {
+      "model": "remake_arsenal:block/spring",
+      "x": 90
+    },
+    "compressed=true,facing=north": {
+      "model": "remake_arsenal:block/spring_compressed",
+      "x": 90
+    },
+    "compressed=false,facing=south": {
+      "model": "remake_arsenal:block/spring",
+      "x": 90,
+      "y": 180
+    },
+    "compressed=true,facing=south": {
+      "model": "remake_arsenal:block/spring_compressed",
+      "x": 90,
+      "y": 180
+    },
+    "compressed=false,facing=east": {
+      "model": "remake_arsenal:block/spring",
+      "x": 90,
+      "y": 90
+    },
+    "compressed=true,facing=east": {
+      "model": "remake_arsenal:block/spring_compressed",
+      "x": 90,
+      "y": 90
+    },
+    "compressed=false,facing=west": {
+      "model": "remake_arsenal:block/spring",
+      "x": 90,
+      "y": 270
+    },
+    "compressed=true,facing=west": {
+      "model": "remake_arsenal:block/spring_compressed",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
