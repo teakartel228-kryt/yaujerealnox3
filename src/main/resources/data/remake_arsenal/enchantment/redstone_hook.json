@@ -1,0 +1,20 @@
+{
+  "description": {
+    "translate": "enchantment.remake_arsenal.redstone_hook"
+  },
+  "supported_items": "#remake_arsenal:enchantable/hook",
+  "weight": 2,
+  "max_level": 5,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 35,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "hand"
+  ]
+}

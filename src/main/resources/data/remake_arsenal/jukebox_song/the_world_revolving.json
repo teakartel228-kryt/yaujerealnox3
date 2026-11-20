@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "remake_arsenal:music_disc.the_world_revolving"
+  },
+  "description": {
+    "translate": "jukebox_song.remake_arsenal.the_world_revolving"
+  },
+  "length_in_seconds": 112.3,
+  "comparator_output": 13
+}

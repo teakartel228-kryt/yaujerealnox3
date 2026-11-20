@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "remake_arsenal:music_disc.steves_inferno"
+  },
+  "description": {
+    "translate": "jukebox_song.remake_arsenal.steves_inferno"
+  },
+  "length_in_seconds": 225.3,
+  "comparator_output": 13
+}

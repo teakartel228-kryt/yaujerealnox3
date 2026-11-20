@@ -1,0 +1,20 @@
+{
+  "description": {
+    "translate": "enchantment.remake_arsenal.hook_arms"
+  },
+  "supported_items": "#remake_arsenal:enchantable/hook",
+  "weight": 2,
+  "max_level": 1,
+  "min_cost": {
+    "base": 25,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 6,
+  "slots": [
+    "hand"
+  ]
+}

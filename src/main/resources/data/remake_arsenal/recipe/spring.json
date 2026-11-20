@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    " S ",
+    "IPI",
+    "III"
+  ],
+  "key": {
+    "S": "minecraft:slime_ball",
+    "I": "minecraft:iron_ingot",
+    "P": "minecraft:piston"
+  },
+  "result": {
+    "id": "remake_arsenal:spring",
+    "count": 2
+  }
+}

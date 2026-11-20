@@ -1,0 +1,20 @@
+{
+  "description": {
+    "translate": "enchantment.remake_arsenal.brick_explosive"
+  },
+  "supported_items": "#remake_arsenal:enchantable/brick",
+  "weight": 3,
+  "max_level": 2,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 12
+  },
+  "max_cost": {
+    "base": 30,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "hand"
+  ]
+}

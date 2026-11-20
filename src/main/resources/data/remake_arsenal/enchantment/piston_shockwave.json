@@ -1,0 +1,20 @@
+{
+  "description": {
+    "translate": "enchantment.remake_arsenal.piston_shockwave"
+  },
+  "supported_items": "#remake_arsenal:enchantable/piston",
+  "weight": 3,
+  "max_level": 2,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 12
+  },
+  "max_cost": {
+    "base": 32,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "hand"
+  ]
+}

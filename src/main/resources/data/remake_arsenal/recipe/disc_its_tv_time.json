@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "INI",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:redstone",
+    "N": "minecraft:note_block"
+  },
+  "result": {
+    "id": "remake_arsenal:disc_its_tv_time",
+    "count": 1
+  }
+}

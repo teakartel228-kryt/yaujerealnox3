@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "INI",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:blaze_powder",
+    "N": "minecraft:note_block"
+  },
+  "result": {
+    "id": "remake_arsenal:disc_steves_inferno",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "remake_arsenal:music_disc.hammer_of_justice"
+  },
+  "description": {
+    "translate": "jukebox_song.remake_arsenal.hammer_of_justice"
+  },
+  "length_in_seconds": 169.1,
+  "comparator_output": 13
+}

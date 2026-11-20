@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "INI",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:gold_ingot",
+    "N": "minecraft:note_block"
+  },
+  "result": {
+    "id": "remake_arsenal:disc_big_shot",
+    "count": 1
+  }
+}

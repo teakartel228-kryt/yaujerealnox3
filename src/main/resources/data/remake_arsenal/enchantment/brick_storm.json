@@ -1,0 +1,20 @@
+{
+  "description": {
+    "translate": "enchantment.remake_arsenal.brick_storm"
+  },
+  "supported_items": "#remake_arsenal:enchantable/brick",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 25,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "hand"
+  ]
+}

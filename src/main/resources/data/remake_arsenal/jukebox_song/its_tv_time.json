@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "remake_arsenal:music_disc.its_tv_time"
+  },
+  "description": {
+    "translate": "jukebox_song.remake_arsenal.its_tv_time"
+  },
+  "length_in_seconds": 214.8,
+  "comparator_output": 13
+}

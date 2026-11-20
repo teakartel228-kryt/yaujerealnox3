@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:nether_brick",
+    "minecraft:nether_brick",
+    "minecraft:gunpowder",
+    "minecraft:gunpowder"
+  ],
+  "result": {
+    "id": "minecraft:nether_brick",
+    "count": 2,
+    "components": {
+      "minecraft:enchantments": {
+        "remake_arsenal:brick_explosive": 1
+      }
+    }
+  }
+}

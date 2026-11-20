@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "remake_arsenal:brick_shard",
+    "remake_arsenal:brick_shard",
+    "remake_arsenal:brick_shard",
+    "remake_arsenal:brick_shard"
+  ],
+  "result": {
+    "id": "minecraft:brick",
+    "count": 1
+  }
+}

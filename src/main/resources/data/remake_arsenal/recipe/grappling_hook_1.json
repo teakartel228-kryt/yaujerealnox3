@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "remake_arsenal:hook_upgrade_template",
+  "base": "remake_arsenal:grappling_hook",
+  "addition": "minecraft:copper_ingot",
+  "result": {
+    "id": "remake_arsenal:grappling_hook_1",
+    "count": 1
+  }
+}

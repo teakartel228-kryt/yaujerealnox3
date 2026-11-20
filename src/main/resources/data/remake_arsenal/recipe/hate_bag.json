@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "LSL",
+    "LEL",
+    "LLL"
+  ],
+  "key": {
+    "L": "minecraft:leather",
+    "S": "minecraft:string",
+    "E": "minecraft:fermented_spider_eye"
+  },
+  "result": {
+    "id": "remake_arsenal:hate_bag",
+    "count": 1
+  }
+}

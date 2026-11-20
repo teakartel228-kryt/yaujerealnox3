@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "P",
+    "S",
+    "L"
+  ],
+  "key": {
+    "P": "minecraft:piston",
+    "S": "minecraft:stick",
+    "L": "minecraft:leather"
+  },
+  "result": {
+    "id": "remake_arsenal:hand_piston",
+    "count": 1
+  }
+}
