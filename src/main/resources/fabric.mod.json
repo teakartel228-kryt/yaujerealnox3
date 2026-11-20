@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "remake_arsenal",
+  "version": "${version}",
+  "name": "[REMAKE] Arsenal",
+  "description": "Grappling hooks, claws, hand piston, note helmet, hate bag, electro wings, enchanted bricks, music discs.",
+  "authors": [
+    "REMAKE"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/remake_arsenal/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      {
+        "value": "com.remake.arsenal.RemakeArsenal",
+        "adapter": "kotlin"
+      }
+    ],
+    "client": [
+      {
+        "value": "com.remake.arsenal.client.RemakeArsenalClient",
+        "adapter": "kotlin"
+      }
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*",
+    "fabric-language-kotlin": "*"
+  }
+}
