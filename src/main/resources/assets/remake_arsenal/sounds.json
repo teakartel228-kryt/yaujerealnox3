@@ -1,0 +1,118 @@
+{
+  "target_hit": {
+    "subtitle": "subtitles.remake_arsenal.target_hit",
+    "sounds": [
+      "remake_arsenal:target_hit_1",
+      "remake_arsenal:target_hit_2"
+    ]
+  },
+  "barrier_pass": {
+    "subtitle": "subtitles.remake_arsenal.barrier_pass",
+    "sounds": [
+      "remake_arsenal:barrier_pass"
+    ]
+  },
+  "relay_pass": {
+    "subtitle": "subtitles.remake_arsenal.relay_pass",
+    "sounds": [
+      "remake_arsenal:relay_pass"
+    ]
+  },
+  "splitter_sort": {
+    "subtitle": "subtitles.remake_arsenal.splitter_sort",
+    "sounds": [
+      "remake_arsenal:splitter_sort"
+    ]
+  },
+  "smart_load": {
+    "subtitle": "subtitles.remake_arsenal.smart_load",
+    "sounds": [
+      "remake_arsenal:smart_load"
+    ]
+  },
+  "smart_error": {
+    "subtitle": "subtitles.remake_arsenal.smart_error",
+    "sounds": [
+      "remake_arsenal:smart_error"
+    ]
+  },
+  "brick_throw": {
+    "subtitle": "subtitles.remake_arsenal.brick_throw",
+    "sounds": [
+      "remake_arsenal:brick_throw"
+    ]
+  },
+  "brick_break": {
+    "subtitle": "subtitles.remake_arsenal.brick_break",
+    "sounds": [
+      "remake_arsenal:brick_break_1",
+      "remake_arsenal:brick_break_2"
+    ]
+  },
+  "nether_brick_break": {
+    "subtitle": "subtitles.remake_arsenal.nether_brick_break",
+    "sounds": [
+      "remake_arsenal:nether_brick_break_1",
+      "remake_arsenal:nether_brick_break_2"
+    ]
+  },
+  "shard_scatter": {
+    "subtitle": "subtitles.remake_arsenal.shard_scatter",
+    "sounds": [
+      "remake_arsenal:shard_scatter_1",
+      "remake_arsenal:shard_scatter_2"
+    ]
+  },
+  "shard_land": {
+    "subtitle": "subtitles.remake_arsenal.shard_land",
+    "sounds": [
+      "remake_arsenal:shard_land"
+    ]
+  },
+  "spring_launch": {
+    "subtitle": "subtitles.remake_arsenal.spring_launch",
+    "sounds": [
+      "remake_arsenal:spring_launch"
+    ]
+  },
+  "music_disc.steves_inferno": {
+    "sounds": [
+      {
+        "name": "remake_arsenal:records/steves_inferno",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.big_shot": {
+    "sounds": [
+      {
+        "name": "remake_arsenal:records/big_shot",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.hammer_of_justice": {
+    "sounds": [
+      {
+        "name": "remake_arsenal:records/hammer_of_justice",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.its_tv_time": {
+    "sounds": [
+      {
+        "name": "remake_arsenal:records/its_tv_time",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_world_revolving": {
+    "sounds": [
+      {
+        "name": "remake_arsenal:records/the_world_revolving",
+        "stream": true
+      }
+    ]
+  }
+}
